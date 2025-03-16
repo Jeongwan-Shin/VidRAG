@@ -1,0 +1,1 @@
+python inference.py --data_type youcook2 --v_ret openai/clip-vit-base-patch32

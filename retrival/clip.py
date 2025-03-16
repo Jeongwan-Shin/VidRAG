@@ -11,14 +11,14 @@ from transformers import CLIPProcessor, CLIPModel
 import torch
 
 class ClipRetriever():
-    def __init__(self, model, device, metadata):
+    def __init__(self, model, device, video_metadata):
         # CLIP Based Retrival Model
         self.clip_model = CLIPModel.from_pretrained(model).to(device).eval()
         self.clip_processor = CLIPProcessor.from_pretrained(model)
         self.device = device
-        self.metadata = metadata
-        self.FEATURE_DIR = "../data/yoocook2/features"
-        self.JSON_PATH = "../data/yoocook2/video_metadata.json"
+        self.metadata = video_metadata
+        self.FEATURE_DIR = "data/youcook2/features"
+        self.JSON_PATH = "data/youcook2/video_metadata.json"
 
     def read_video_frames(self, video_path, fps):
         """비디오에서 1초당 1개 프레임을 추출하여 PIL.Image 리스트로 반환."""
@@ -44,13 +44,13 @@ class ClipRetriever():
             features = self.clip_model.get_image_features(**inputs)  # Vision 인코딩
         return features.cpu().numpy()  # GPU -> CPU 변환 후 NumPy 배열 반환
 
-    def save_features(feature_array, feature_path):
+    def save_features(self, feature_array, feature_path):
         """인코딩된 feature를 npy 파일로 저장"""
         np.save(feature_path, feature_array)
     
-    def incoding_video_process(self, video_metadata):
+    def incoding_video_process(self):
         """각 비디오를 읽고, CLIP Vision Encoder로 인코딩 후, feature를 개별 파일로 저장."""
-        for entry in tqdm(video_metadata, desc="Processing Videos", unit="video"):
+        for entry in tqdm(self.metadata, desc="Processing Videos", unit="video"):
             video_id = entry["id"]
             category = entry["category"]
             paths = entry["path"]
@@ -106,7 +106,7 @@ class ClipRetriever():
             text_features = self.clip_model.get_text_features(**inputs)
         return text_features / text_features.norm(dim=-1, keepdim=True)  # 정규화
 
-    def load_features(feature_path):
+    def load_features(self, feature_path):
         """저장된 feature 파일을 불러와서 PyTorch Tensor로 변환"""
         feature_array = np.load(feature_path)
         return torch.tensor(feature_array)

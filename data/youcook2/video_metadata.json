@@ -1,0 +1,714 @@
+[
+    {
+        "id": 101,
+        "category": "BLT",
+        "path": "../../Llava_train/data/youcook2/raw_videos/training/101/fOPF3x6c2WI.mp4",
+        "feature_files": [
+            "data/youcook2/features/101_fOPF3x6c2WI.mp4.npy"
+        ]
+    },
+    {
+        "id": 102,
+        "category": "onion rings",
+        "path": "../../Llava_train/data/youcook2/raw_videos/training/102/0IuQKThr-pM.mp4",
+        "feature_files": [
+            "data/youcook2/features/102_0IuQKThr-pM.mp4.npy"
+        ]
+    },
+    {
+        "id": 103,
+        "category": "burger",
+        "path": "../../Llava_train/data/youcook2/raw_videos/training/103/sJLapskS7KU.mp4",
+        "feature_files": [
+            "data/youcook2/features/103_sJLapskS7KU.mp4.npy"
+        ]
+    },
+    {
+        "id": 104,
+        "category": "scrambled eggs",
+        "path": "../../Llava_train/data/youcook2/raw_videos/training/104/NujJqJUXSQY.mp4",
+        "feature_files": [
+            "data/youcook2/features/104_NujJqJUXSQY.mp4.npy"
+        ]
+    },
+    {
+        "id": 105,
+        "category": "fried chicken",
+        "path": "../../Llava_train/data/youcook2/raw_videos/training/105/usexIHfWXK8.mp4",
+        "feature_files": [
+            "data/youcook2/features/105_usexIHfWXK8.mp4.npy"
+        ]
+    },
+    {
+        "id": 106,
+        "category": "macaroni and cheese",
+        "path": "../../Llava_train/data/youcook2/raw_videos/training/106/n2Tq29hTKgM.mp4",
+        "feature_files": [
+            "data/youcook2/features/106_n2Tq29hTKgM.mp4.npy"
+        ]
+    },
+    {
+        "id": 107,
+        "category": "calamari",
+        "path": "../../Llava_train/data/youcook2/raw_videos/training/107/XkH9lXa6ykU.mp4",
+        "feature_files": [
+            "data/youcook2/features/107_XkH9lXa6ykU.mp4.npy"
+        ]
+    },
+    {
+        "id": 108,
+        "category": "pancake",
+        "path": "../../Llava_train/data/youcook2/raw_videos/training/108/dkyxNIkE7vQ.mp4",
+        "feature_files": [
+            "data/youcook2/features/108_dkyxNIkE7vQ.mp4.npy"
+        ]
+    },
+    {
+        "id": 109,
+        "category": "buffalo wings",
+        "path": "../../Llava_train/data/youcook2/raw_videos/training/109/vHpqMItXGzg.mp4",
+        "feature_files": [
+            "data/youcook2/features/109_vHpqMItXGzg.mp4.npy"
+        ]
+    },
+    {
+        "id": 110,
+        "category": "caesar salad",
+        "path": "../../Llava_train/data/youcook2/raw_videos/training/110/yU7p2deHUEY.mp4",
+        "feature_files": [
+            "data/youcook2/features/110_yU7p2deHUEY.mp4.npy"
+        ]
+    },
+    {
+        "id": 111,
+        "category": "waldorf salad",
+        "path": "../../Llava_train/data/youcook2/raw_videos/training/111/h4eBp37M5c0.mp4",
+        "feature_files": [
+            "data/youcook2/features/111_h4eBp37M5c0.mp4.npy"
+        ]
+    },
+    {
+        "id": 112,
+        "category": "pasta salad",
+        "path": "../../Llava_train/data/youcook2/raw_videos/training/112/osov-0HY1Lw.mp4",
+        "feature_files": [
+            "data/youcook2/features/112_osov-0HY1Lw.mp4.npy"
+        ]
+    },
+    {
+        "id": 113,
+        "category": "grilled cheese",
+        "path": "../../Llava_train/data/youcook2/raw_videos/training/113/1uoT5TjyWsU.mp4",
+        "feature_files": [
+            "data/youcook2/features/113_1uoT5TjyWsU.mp4.npy"
+        ]
+    },
+    {
+        "id": 114,
+        "category": "mashed potato",
+        "path": "../../Llava_train/data/youcook2/raw_videos/training/114/9r-OKNP1V60.mp4",
+        "feature_files": [
+            "data/youcook2/features/114_9r-OKNP1V60.mp4.npy"
+        ]
+    },
+    {
+        "id": 115,
+        "category": "corn dogs",
+        "path": "../../Llava_train/data/youcook2/raw_videos/training/115/M6gouTbPn70.mp4",
+        "feature_files": [
+            "data/youcook2/features/115_M6gouTbPn70.mp4.npy"
+        ]
+    },
+    {
+        "id": 116,
+        "category": "pepperoni pizza",
+        "path": "../../Llava_train/data/youcook2/raw_videos/training/116/XXrVZ-bhQEw.mp4",
+        "feature_files": [
+            "data/youcook2/features/116_XXrVZ-bhQEw.mp4.npy"
+        ]
+    },
+    {
+        "id": 117,
+        "category": "eggs benedict",
+        "path": "../../Llava_train/data/youcook2/raw_videos/training/117/pz1pXfa208Y.mp4",
+        "feature_files": [
+            "data/youcook2/features/117_pz1pXfa208Y.mp4.npy"
+        ]
+    },
+    {
+        "id": 119,
+        "category": "meatloaf",
+        "path": "../../Llava_train/data/youcook2/raw_videos/training/119/M1HPY6_IEqU.mp4",
+        "feature_files": [
+            "data/youcook2/features/119_M1HPY6_IEqU.mp4.npy"
+        ]
+    },
+    {
+        "id": 120,
+        "category": "hash browns",
+        "path": "../../Llava_train/data/youcook2/raw_videos/training/120/eX2r9gvdt1o.mp4",
+        "feature_files": [
+            "data/youcook2/features/120_eX2r9gvdt1o.mp4.npy"
+        ]
+    },
+    {
+        "id": 121,
+        "category": "clam chowder",
+        "path": "../../Llava_train/data/youcook2/raw_videos/training/121/zFKhct4g8as.mp4",
+        "feature_files": [
+            "data/youcook2/features/121_zFKhct4g8as.mp4.npy"
+        ]
+    },
+    {
+        "id": 122,
+        "category": "tomato soup",
+        "path": "../../Llava_train/data/youcook2/raw_videos/training/122/LV943DshjOc.mp4",
+        "feature_files": [
+            "data/youcook2/features/122_LV943DshjOc.mp4.npy"
+        ]
+    },
+    {
+        "id": 124,
+        "category": "hot dogs",
+        "path": "../../Llava_train/data/youcook2/raw_videos/training/124/5RZ2wO2IH54.mp4",
+        "feature_files": [
+            "data/youcook2/features/124_5RZ2wO2IH54.mp4.npy"
+        ]
+    },
+    {
+        "id": 126,
+        "category": "beef tacos",
+        "path": "../../Llava_train/data/youcook2/raw_videos/training/126/SSmpg5gmTzc.mp4",
+        "feature_files": [
+            "data/youcook2/features/126_SSmpg5gmTzc.mp4.npy"
+        ]
+    },
+    {
+        "id": 127,
+        "category": "bean burrito",
+        "path": "../../Llava_train/data/youcook2/raw_videos/training/127/0lkjIf5hZT4.mp4",
+        "feature_files": [
+            "data/youcook2/features/127_0lkjIf5hZT4.mp4.npy"
+        ]
+    },
+    {
+        "id": 201,
+        "category": "chicken parmesan",
+        "path": "../../Llava_train/data/youcook2/raw_videos/training/201/zbOnhbcikz0.mp4",
+        "feature_files": [
+            "data/youcook2/features/201_zbOnhbcikz0.mp4.npy"
+        ]
+    },
+    {
+        "id": 202,
+        "category": "minestrone",
+        "path": "../../Llava_train/data/youcook2/raw_videos/training/202/7nH0Y3agsas.mp4",
+        "feature_files": [
+            "data/youcook2/features/202_7nH0Y3agsas.mp4.npy"
+        ]
+    },
+    {
+        "id": 203,
+        "category": "spaghetti and meatballs",
+        "path": "../../Llava_train/data/youcook2/raw_videos/training/203/__5RJw4UP1Y.mp4",
+        "feature_files": [
+            "data/youcook2/features/203___5RJw4UP1Y.mp4.npy"
+        ]
+    },
+    {
+        "id": 204,
+        "category": "penne alla vodka",
+        "path": "../../Llava_train/data/youcook2/raw_videos/training/204/HwLNy9MV6AQ.mp4",
+        "feature_files": [
+            "data/youcook2/features/204_HwLNy9MV6AQ.mp4.npy"
+        ]
+    },
+    {
+        "id": 205,
+        "category": "pizza marghetta",
+        "path": "../../Llava_train/data/youcook2/raw_videos/training/205/FHvZgt3ExDI.mp4",
+        "feature_files": [
+            "data/youcook2/features/205_FHvZgt3ExDI.mp4.npy"
+        ]
+    },
+    {
+        "id": 206,
+        "category": "spaghetti carbonara",
+        "path": "../../Llava_train/data/youcook2/raw_videos/training/206/O2IDAC0Ogp4.mp4",
+        "feature_files": [
+            "data/youcook2/features/206_O2IDAC0Ogp4.mp4.npy"
+        ]
+    },
+    {
+        "id": 207,
+        "category": "fish and chips",
+        "path": "../../Llava_train/data/youcook2/raw_videos/training/207/-ORd4EBliqw.mp4",
+        "feature_files": [
+            "data/youcook2/features/207_-ORd4EBliqw.mp4.npy"
+        ]
+    },
+    {
+        "id": 208,
+        "category": "bangers and mash",
+        "path": "../../Llava_train/data/youcook2/raw_videos/training/208/BL8oJSnL4EE.mp4",
+        "feature_files": [
+            "data/youcook2/features/208_BL8oJSnL4EE.mp4.npy"
+        ]
+    },
+    {
+        "id": 209,
+        "category": "shepherd's pie",
+        "path": "../../Llava_train/data/youcook2/raw_videos/training/209/Qsgz9Vr-5aU.mp4",
+        "feature_files": [
+            "data/youcook2/features/209_Qsgz9Vr-5aU.mp4.npy"
+        ]
+    },
+    {
+        "id": 210,
+        "category": "boxty",
+        "path": "../../Llava_train/data/youcook2/raw_videos/training/210/lYIdHAgj64Y.mp4",
+        "feature_files": [
+            "data/youcook2/features/210_lYIdHAgj64Y.mp4.npy"
+        ]
+    },
+    {
+        "id": 211,
+        "category": "colcannon",
+        "path": "../../Llava_train/data/youcook2/raw_videos/training/211/V9GsyAcKk_c.mp4",
+        "feature_files": [
+            "data/youcook2/features/211_V9GsyAcKk_c.mp4.npy"
+        ]
+    },
+    {
+        "id": 212,
+        "category": "cottage pie",
+        "path": "../../Llava_train/data/youcook2/raw_videos/training/212/UzqlXpAAAWk.mp4",
+        "feature_files": [
+            "data/youcook2/features/212_UzqlXpAAAWk.mp4.npy"
+        ]
+    },
+    {
+        "id": 213,
+        "category": "croque monsieur",
+        "path": "../../Llava_train/data/youcook2/raw_videos/training/213/Rig-KeXvcyk.mp4",
+        "feature_files": [
+            "data/youcook2/features/213_Rig-KeXvcyk.mp4.npy"
+        ]
+    },
+    {
+        "id": 214,
+        "category": "foie gras",
+        "path": "../../Llava_train/data/youcook2/raw_videos/training/214/ycapN0_D2RA.mp4",
+        "feature_files": [
+            "data/youcook2/features/214_ycapN0_D2RA.mp4.npy"
+        ]
+    },
+    {
+        "id": 215,
+        "category": "escargot",
+        "path": "../../Llava_train/data/youcook2/raw_videos/training/215/fokJxFjWJfs.mp4",
+        "feature_files": [
+            "data/youcook2/features/215_fokJxFjWJfs.mp4.npy"
+        ]
+    },
+    {
+        "id": 216,
+        "category": "bratwurst",
+        "path": "../../Llava_train/data/youcook2/raw_videos/training/216/WAevYUItUAY.mp4",
+        "feature_files": [
+            "data/youcook2/features/216_WAevYUItUAY.mp4.npy"
+        ]
+    },
+    {
+        "id": 218,
+        "category": "pierogi",
+        "path": "../../Llava_train/data/youcook2/raw_videos/training/218/tlGFRoMj4uE.mp4",
+        "feature_files": [
+            "data/youcook2/features/218_tlGFRoMj4uE.mp4.npy"
+        ]
+    },
+    {
+        "id": 219,
+        "category": "sauerkraut",
+        "path": "../../Llava_train/data/youcook2/raw_videos/training/219/zgfwA7qt0lg.mp4",
+        "feature_files": [
+            "data/youcook2/features/219_zgfwA7qt0lg.mp4.npy"
+        ]
+    },
+    {
+        "id": 221,
+        "category": "goulash",
+        "path": "../../Llava_train/data/youcook2/raw_videos/training/221/HxehEvClhQI.mp4",
+        "feature_files": [
+            "data/youcook2/features/221_HxehEvClhQI.mp4.npy"
+        ]
+    },
+    {
+        "id": 222,
+        "category": "mussels",
+        "path": "../../Llava_train/data/youcook2/raw_videos/training/222/Bn0wtnfGUA8.mp4",
+        "feature_files": [
+            "data/youcook2/features/222_Bn0wtnfGUA8.mp4.npy"
+        ]
+    },
+    {
+        "id": 223,
+        "category": "beef bourguignon",
+        "path": "../../Llava_train/data/youcook2/raw_videos/training/223/G1ZdFe9x-U8.mp4",
+        "feature_files": [
+            "data/youcook2/features/223_G1ZdFe9x-U8.mp4.npy"
+        ]
+    },
+    {
+        "id": 224,
+        "category": "wiener schnitzel",
+        "path": "../../Llava_train/data/youcook2/raw_videos/training/224/l2E5jHfAENY.mp4",
+        "feature_files": [
+            "data/youcook2/features/224_l2E5jHfAENY.mp4.npy"
+        ]
+    },
+    {
+        "id": 225,
+        "category": "pasta e fagioli",
+        "path": "../../Llava_train/data/youcook2/raw_videos/training/225/Y4SijHJ02Zg.mp4",
+        "feature_files": [
+            "data/youcook2/features/225_Y4SijHJ02Zg.mp4.npy"
+        ]
+    },
+    {
+        "id": 226,
+        "category": "fattoush",
+        "path": "../../Llava_train/data/youcook2/raw_videos/training/226/L_g38nzrJDA.mp4",
+        "feature_files": [
+            "data/youcook2/features/226_L_g38nzrJDA.mp4.npy"
+        ]
+    },
+    {
+        "id": 227,
+        "category": "tabbouleh",
+        "path": "../../Llava_train/data/youcook2/raw_videos/training/227/u2U7VkXHtMU.mp4",
+        "feature_files": [
+            "data/youcook2/features/227_u2U7VkXHtMU.mp4.npy"
+        ]
+    },
+    {
+        "id": 228,
+        "category": "hummus",
+        "path": "../../Llava_train/data/youcook2/raw_videos/training/228/GEXox3R0-bk.mp4",
+        "feature_files": [
+            "data/youcook2/features/228_GEXox3R0-bk.mp4.npy"
+        ]
+    },
+    {
+        "id": 229,
+        "category": "falafel",
+        "path": "../../Llava_train/data/youcook2/raw_videos/training/229/TvnrmFuz0G8.mp4",
+        "feature_files": [
+            "data/youcook2/features/229_TvnrmFuz0G8.mp4.npy"
+        ]
+    },
+    {
+        "id": 230,
+        "category": "shish kabob",
+        "path": "../../Llava_train/data/youcook2/raw_videos/training/230/Y4GVder8xwE.mp4",
+        "feature_files": [
+            "data/youcook2/features/230_Y4GVder8xwE.mp4.npy"
+        ]
+    },
+    {
+        "id": 301,
+        "category": "kung pao chicken",
+        "path": "../../Llava_train/data/youcook2/raw_videos/training/301/-AfxeTnCbVQ.mp4",
+        "feature_files": [
+            "data/youcook2/features/301_-AfxeTnCbVQ.mp4.npy"
+        ]
+    },
+    {
+        "id": 302,
+        "category": "chinese spring rolls",
+        "path": "../../Llava_train/data/youcook2/raw_videos/training/302/2Q-Nq6kxpfg.mp4",
+        "feature_files": [
+            "data/youcook2/features/302_2Q-Nq6kxpfg.mp4.npy"
+        ]
+    },
+    {
+        "id": 303,
+        "category": "mapo tofu",
+        "path": "../../Llava_train/data/youcook2/raw_videos/training/303/pYbA5YOcnIo.mp4",
+        "feature_files": [
+            "data/youcook2/features/303_pYbA5YOcnIo.mp4.npy"
+        ]
+    },
+    {
+        "id": 304,
+        "category": "yaki udon noodle",
+        "path": "../../Llava_train/data/youcook2/raw_videos/training/304/4JwUCS5JjfY.mp4",
+        "feature_files": [
+            "data/youcook2/features/304_4JwUCS5JjfY.mp4.npy"
+        ]
+    },
+    {
+        "id": 305,
+        "category": "kimchi",
+        "path": "../../Llava_train/data/youcook2/raw_videos/training/305/4t1bX0UTl2Q.mp4",
+        "feature_files": [
+            "data/youcook2/features/305_4t1bX0UTl2Q.mp4.npy"
+        ]
+    },
+    {
+        "id": 306,
+        "category": "shrimp tempura",
+        "path": "../../Llava_train/data/youcook2/raw_videos/training/306/uXbkxyyOEr4.mp4",
+        "feature_files": [
+            "data/youcook2/features/306_uXbkxyyOEr4.mp4.npy"
+        ]
+    },
+    {
+        "id": 307,
+        "category": "california roll",
+        "path": "../../Llava_train/data/youcook2/raw_videos/training/307/dC9gJsXAXGU.mp4",
+        "feature_files": [
+            "data/youcook2/features/307_dC9gJsXAXGU.mp4.npy"
+        ]
+    },
+    {
+        "id": 308,
+        "category": "spicy tuna roll",
+        "path": "../../Llava_train/data/youcook2/raw_videos/training/308/qndZKzNHpwc.mp4",
+        "feature_files": [
+            "data/youcook2/features/308_qndZKzNHpwc.mp4.npy"
+        ]
+    },
+    {
+        "id": 309,
+        "category": "potstickers",
+        "path": "../../Llava_train/data/youcook2/raw_videos/training/309/Z8xhli297v8.mp4",
+        "feature_files": [
+            "data/youcook2/features/309_Z8xhli297v8.mp4.npy"
+        ]
+    },
+    {
+        "id": 310,
+        "category": "tuna sashimi",
+        "path": "../../Llava_train/data/youcook2/raw_videos/training/310/sje4izweMUg.mp4",
+        "feature_files": [
+            "data/youcook2/features/310_sje4izweMUg.mp4.npy"
+        ]
+    },
+    {
+        "id": 311,
+        "category": "salmon sashimi",
+        "path": "../../Llava_train/data/youcook2/raw_videos/training/311/qPSqTqkHhGg.mp4",
+        "feature_files": [
+            "data/youcook2/features/311_qPSqTqkHhGg.mp4.npy"
+        ]
+    },
+    {
+        "id": 313,
+        "category": "salmon nigiri",
+        "path": "../../Llava_train/data/youcook2/raw_videos/training/313/EyAdFQJv2LY.mp4",
+        "feature_files": [
+            "data/youcook2/features/313_EyAdFQJv2LY.mp4.npy"
+        ]
+    },
+    {
+        "id": 314,
+        "category": "authentic japanese ramen",
+        "path": "../../Llava_train/data/youcook2/raw_videos/training/314/C4ROaIjK6Fs.mp4",
+        "feature_files": [
+            "data/youcook2/features/314_C4ROaIjK6Fs.mp4.npy"
+        ]
+    },
+    {
+        "id": 316,
+        "category": "miso soup",
+        "path": "../../Llava_train/data/youcook2/raw_videos/training/316/5B1jpHgRetQ.mp4",
+        "feature_files": [
+            "data/youcook2/features/316_5B1jpHgRetQ.mp4.npy"
+        ]
+    },
+    {
+        "id": 317,
+        "category": "bulgogi",
+        "path": "../../Llava_train/data/youcook2/raw_videos/training/317/2ICT6R4XpG8.mp4",
+        "feature_files": [
+            "data/youcook2/features/317_2ICT6R4XpG8.mp4.npy"
+        ]
+    },
+    {
+        "id": 318,
+        "category": "galbi",
+        "path": "../../Llava_train/data/youcook2/raw_videos/training/318/k3nRPKCyyVg.mp4",
+        "feature_files": [
+            "data/youcook2/features/318_k3nRPKCyyVg.mp4.npy"
+        ]
+    },
+    {
+        "id": 319,
+        "category": "bibimbap",
+        "path": "../../Llava_train/data/youcook2/raw_videos/training/319/a0g9OPuNcwI.mp4",
+        "feature_files": [
+            "data/youcook2/features/319_a0g9OPuNcwI.mp4.npy"
+        ]
+    },
+    {
+        "id": 321,
+        "category": "general's chicken",
+        "path": "../../Llava_train/data/youcook2/raw_videos/training/321/E_0tikIOFIc.mp4",
+        "feature_files": [
+            "data/youcook2/features/321_E_0tikIOFIc.mp4.npy"
+        ]
+    },
+    {
+        "id": 323,
+        "category": "pork fried rice",
+        "path": "../../Llava_train/data/youcook2/raw_videos/training/323/dI2WtKv1t_o.mp4",
+        "feature_files": [
+            "data/youcook2/features/323_dI2WtKv1t_o.mp4.npy"
+        ]
+    },
+    {
+        "id": 324,
+        "category": "udon noodle soup",
+        "path": "../../Llava_train/data/youcook2/raw_videos/training/324/KoKkf5qEW8w.mp4",
+        "feature_files": [
+            "data/youcook2/features/324_KoKkf5qEW8w.mp4.npy"
+        ]
+    },
+    {
+        "id": 325,
+        "category": "sour soup",
+        "path": "../../Llava_train/data/youcook2/raw_videos/training/325/kEpB-PVlvVk.mp4",
+        "feature_files": [
+            "data/youcook2/features/325_kEpB-PVlvVk.mp4.npy"
+        ]
+    },
+    {
+        "id": 401,
+        "category": "indian chicken curry",
+        "path": "../../Llava_train/data/youcook2/raw_videos/training/401/f9mlIEtVt5s.mp4",
+        "feature_files": [
+            "data/youcook2/features/401_f9mlIEtVt5s.mp4.npy"
+        ]
+    },
+    {
+        "id": 403,
+        "category": "pad thai",
+        "path": "../../Llava_train/data/youcook2/raw_videos/training/403/C_6yMh3tEQk.mp4",
+        "feature_files": [
+            "data/youcook2/features/403_C_6yMh3tEQk.mp4.npy"
+        ]
+    },
+    {
+        "id": 404,
+        "category": "singapore rice noodle",
+        "path": "../../Llava_train/data/youcook2/raw_videos/training/404/Y6VBdbmdjYw.mp4",
+        "feature_files": [
+            "data/youcook2/features/404_Y6VBdbmdjYw.mp4.npy"
+        ]
+    },
+    {
+        "id": 405,
+        "category": "indian lamb curry",
+        "path": "../../Llava_train/data/youcook2/raw_videos/training/405/-h8c5sLelZ4.mp4",
+        "feature_files": [
+            "data/youcook2/features/405_-h8c5sLelZ4.mp4.npy"
+        ]
+    },
+    {
+        "id": 406,
+        "category": "vietnam spring roll",
+        "path": "../../Llava_train/data/youcook2/raw_videos/training/406/2YkYjleJs-0.mp4",
+        "feature_files": [
+            "data/youcook2/features/406_2YkYjleJs-0.mp4.npy"
+        ]
+    },
+    {
+        "id": 409,
+        "category": "vegetable biryani",
+        "path": "../../Llava_train/data/youcook2/raw_videos/training/409/Z6coaaI77PY.mp4",
+        "feature_files": [
+            "data/youcook2/features/409_Z6coaaI77PY.mp4.npy"
+        ]
+    },
+    {
+        "id": 410,
+        "category": "chapati",
+        "path": "../../Llava_train/data/youcook2/raw_videos/training/410/GYolHIuQlEY.mp4",
+        "feature_files": [
+            "data/youcook2/features/410_GYolHIuQlEY.mp4.npy"
+        ]
+    },
+    {
+        "id": 412,
+        "category": "thai fried rice",
+        "path": "../../Llava_train/data/youcook2/raw_videos/training/412/wch6oe0FjN8.mp4",
+        "feature_files": [
+            "data/youcook2/features/412_wch6oe0FjN8.mp4.npy"
+        ]
+    },
+    {
+        "id": 413,
+        "category": "vietnam sandwish",
+        "path": "../../Llava_train/data/youcook2/raw_videos/training/413/krb0QUDrmgQ.mp4",
+        "feature_files": [
+            "data/youcook2/features/413_krb0QUDrmgQ.mp4.npy"
+        ]
+    },
+    {
+        "id": 416,
+        "category": "dal makhani",
+        "path": "../../Llava_train/data/youcook2/raw_videos/training/416/4TjB1J4QoUQ.mp4",
+        "feature_files": [
+            "data/youcook2/features/416_4TjB1J4QoUQ.mp4.npy"
+        ]
+    },
+    {
+        "id": 418,
+        "category": "chana masala",
+        "path": "../../Llava_train/data/youcook2/raw_videos/training/418/5cqJkRqbHrs.mp4",
+        "feature_files": [
+            "data/youcook2/features/418_5cqJkRqbHrs.mp4.npy"
+        ]
+    },
+    {
+        "id": 419,
+        "category": "naan",
+        "path": "../../Llava_train/data/youcook2/raw_videos/training/419/LSOdpif-DCc.mp4",
+        "feature_files": [
+            "data/youcook2/features/419_LSOdpif-DCc.mp4.npy"
+        ]
+    },
+    {
+        "id": 421,
+        "category": "samosa",
+        "path": "../../Llava_train/data/youcook2/raw_videos/training/421/7v2kaXqLNCY.mp4",
+        "feature_files": [
+            "data/youcook2/features/421_7v2kaXqLNCY.mp4.npy"
+        ]
+    },
+    {
+        "id": 422,
+        "category": "wanton noodle",
+        "path": "../../Llava_train/data/youcook2/raw_videos/training/422/_5T4SAo7S-E.mp4",
+        "feature_files": [
+            "data/youcook2/features/422__5T4SAo7S-E.mp4.npy"
+        ]
+    },
+    {
+        "id": 423,
+        "category": "singapore curry laksa",
+        "path": "../../Llava_train/data/youcook2/raw_videos/training/423/ukfCQQpZ0k4.mp4",
+        "feature_files": [
+            "data/youcook2/features/423_ukfCQQpZ0k4.mp4.npy"
+        ]
+    },
+    {
+        "id": 425,
+        "category": "masala dosa",
+        "path": "../../Llava_train/data/youcook2/raw_videos/training/425/j878b3cSqEw.mp4",
+        "feature_files": [
+            "data/youcook2/features/425_j878b3cSqEw.mp4.npy"
+        ]
+    }
+]

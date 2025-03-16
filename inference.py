@@ -14,7 +14,7 @@ def setup_seed(seed: int = 42):
 def get_arguments():
     parser = argparse.ArgumentParser()
 
-    parser.add_argument("--data_type", required=True, help="YooCook2, etc")
+    parser.add_argument("--data_type", default="youcook2", required=True, help="YooCook2, etc")
     parser.add_argument("--v_ret",  default="openai/clip-vit-base-patch32", required=True, help="Clip, Blip, SigLip, etc") 
     # VLM model arg
     #parser.add_argument("--vlm", required=True, help="Llava-ov-0.5b, Llava-ov-7b, etc")
@@ -23,17 +23,18 @@ def get_arguments():
     
     return args
     
-def main():
-    args = get_arguments()
-    print("args:", args)
+def inference():
     
     device = "cuda" if torch.cuda.is_available() else "cpu"
     print(f"Using device: {device}")
     
     if args.data_type == "youcook2":
+        print("Loading youcook2")
         videoDB = youcook2_dataset()
         
     retriever = ClipRetriever(model=args.v_ret, device=device, video_metadata=videoDB.metadata)
+    
+    retriever.incoding_video_process()
     
     text_query = "how to make salmon sashimi?"  # 사용자 입력
     
@@ -42,3 +43,9 @@ def main():
     print("\n**Top-K Similar Videos:**")
     for idx, video in enumerate(top_k_videos):
         print(f"{idx+1}. ID: {video['id']} | Category: {video['category']} | Similarity: {video['similarity']:.4f}")
+        
+if __name__ == "__main__":
+    args = get_arguments()
+    print("args:", args)
+    
+    inference()

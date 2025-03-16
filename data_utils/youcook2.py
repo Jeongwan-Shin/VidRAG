@@ -1,14 +1,12 @@
 import os
-import torch
-from tqdm import tqdm
-import csv
 import pandas as pd
+from glob import glob
 
 class youcook2_dataset():
-    def __init__(self, args):
+    def __init__(self):
         # YookCook2 Datasets
         self.video_dir = "../../Llava_train/data/youcook2/raw_videos/training/"
-        self.list_label = "../VidRAG/data/yoocook2/label_foodtype.csv"
+        self.list_label = "../VidRAG/data/youcook2/label_foodtype.csv"
             
         self.data_label = self.load_csv_to_dict(self.list_label)
         self.metadata = self.create_video_metadata(self.data_label, self.video_dir)
@@ -21,7 +19,7 @@ class youcook2_dataset():
         
         return dict(zip(df["id"], df["category"]))
 
-    def create_video_metadata(data_dict, base_dir):
+    def create_video_metadata(self, data_dict, base_dir):
         """주어진 ID 값을 기반으로 비디오 파일 경로를 찾아 JSON 구조 생성"""
         video_data = []
 

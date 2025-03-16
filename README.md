@@ -6,7 +6,7 @@ This project focuses on developing a **Video-Retrival Augumented Generation** pi
 ## 🔧 Retrieval 실행 방법
 ```bash
 bash scripts/infer.sh
-
+```
 ## 🛠️ Development Process
 ### 1️⃣ Video Retrieval
 Extracting and retrieving relevant video data using various techniques:

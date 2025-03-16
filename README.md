@@ -3,7 +3,7 @@
 ## 🚀 Overview
 This project focuses on developing a **Video-Retrival Augumented Generation** pipeline. The development process includes **video retrieval** and **video-to-text generation**.
 
-## 🔧 Retrieval 실행 방법
+## 🔧 Retrieval Run
 ```bash
 bash scripts/infer.sh
 ```
